@@ -1,4 +1,4 @@
-name: Deploy Admin Backend
+name: Deploy Client Backend
 
 on:
   push:
